@@ -4,7 +4,7 @@
 
 *requires [fortune-mod][fortune]*
 
-1. install fortune
+1. install fortune,
 ex: `pacman -S fortune-mod`
 
 2. place fortune.rb in jekyll _plugins/ directory
